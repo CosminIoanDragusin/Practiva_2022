@@ -1,0 +1,69 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(227,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(227,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(228,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(228,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(229,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(229,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(230,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(230,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(231,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(231,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(232,18): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(232,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(233,18): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(233,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(234,18): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(234,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(236,18): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(236,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(237,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(237,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(238,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(238,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(239,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(239,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(240,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(240,10): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(241,14): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(241,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(253,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(253,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(254,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(254,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(255,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(255,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(256,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(256,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(257,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(257,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(258,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(258,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(259,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(259,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(260,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(260,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(261,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(261,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(262,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(262,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(263,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(263,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(264,15): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(264,9): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(265,16): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(265,10): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(266,16): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(266,10): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(267,16): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(267,10): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(268,19): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(268,13): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(269,18): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(269,12): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(270,21): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(270,15): warning C4309: 'initializing': truncation of constant value
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(271,20): warning C4305: 'initializing': truncation from 'int' to 'const Asamblor::Byte'
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Asamblor\Header.h(271,14): warning C4309: 'initializing': truncation of constant value
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\user\Desktop\proiect-procesor-asamblor\Proiect_final\Asamblor\Debug\Asamblor.exe : fatal error LNK1120: 1 unresolved externals
